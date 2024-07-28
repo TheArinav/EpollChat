@@ -1,0 +1,3 @@
+/tmp/tmp.hrDSTwqOsp/cmake-build-debug/CMakeFiles/EpollChat.dir
+/tmp/tmp.hrDSTwqOsp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.hrDSTwqOsp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
